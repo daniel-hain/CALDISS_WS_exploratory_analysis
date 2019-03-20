@@ -1,3 +1,0 @@
-## Slides from the sessions
-
----
