@@ -44,7 +44,7 @@ In this session, you will learn the basic grammar of data manipulation and visua
 
 * Obtaining our data
 * Scrubbing / Cleaning our data
-* SUmmarizing our data
+* Summarizing our data
 * Visualizing our data
 
 In this session, you will learn:
@@ -662,8 +662,6 @@ Finally, `by_group()` is offers the perfect complement to the 5 basic verbs, sin
 
 ![Group](https://www.dropbox.com/s/lpuoesmr9hqwfdg/dplyr_group.png?dl=1)
 
-
-
 First of all, it works amazingly well with the `summarize()` verb, producing within group summaries
 
 ```{r}
@@ -708,6 +706,7 @@ df1 %>% left_join(df2)
 
 
 2. `right_join(x, y)` includes all observations in `y`. It's equivalent to `left_join(y, x)`, but the columns will be ordered differently.
+
 ```{r}
 df1 %>% right_join(df2)
 ```
@@ -1191,7 +1190,6 @@ votes_tidy %>%
 ```
 
 Regular expressions are a bit of a mess to learn, but extremely powerful. In case you need it, give it a shot!
-
 
 ## Your turn
 
