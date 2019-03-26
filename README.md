@@ -58,13 +58,10 @@ Collection of free online resources on all kinds of Data Science topics.
 
 # Day 1: Intro, Data Preprocessing
 
-[Notebook (read-only version)](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_2_data_munging.html)
-
-[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-1-data-munging)
+* [Notebook (read-only version)](https://raw.githack.com/daniel-hain/CALDISS_WS_exploratory_analysis/master/notebooks/1_data_munging.html)
+* [Notebook (rmd version for offline work)](https://raw.githubusercontent.com/daniel-hain/CALDISS_WS_exploratory_analysis/master/notebooks/1_data_munging.Rmd)
+* [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/caldiss-spring-2019-data-munging)
 
 
 # Day 2: Unsupervised and Supervised Machine Learning
-
-[Notebook (read-only version)](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_3_unsupervised_ml.html)
-
-[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-3-unsupervised-ml)
+Be patient, no spoilers yet... :)
