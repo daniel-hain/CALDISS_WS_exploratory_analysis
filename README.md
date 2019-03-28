@@ -1,5 +1,4 @@
 # CALDISS workshop: Exploratory Data Analysis: Spring Term 2018
-Methods workshop at the Africalics 2018 PhD Academy, Marrakesh 
 
 Dr. Daniel S. Hain, dsh@business.aau.dk
 
@@ -15,19 +14,44 @@ Below you will find links to the different things presented during the workshop,
 
 ---
 
-# Useful resources
+# Course Material
 
-## Demonstration
+Below you wil find thye course material. You will find a html version for rehearsal, but more importantly interactive versions which allow you to run the code along with us during the lecture. You can either choose to do it offline on your laptop (then download the rmd version), or online on Kaggle notebook which you can directly run and edit in your browser.
+
+* [Notebook (html, read-only version)](https://raw.githack.com/daniel-hain/CALDISS_WS_exploratory_analysis/master/notebooks/1_data_munging.html)
+* [Notebook (rmd version for offline work)](https://raw.githubusercontent.com/daniel-hain/CALDISS_WS_exploratory_analysis/master/notebooks/1_data_munging.Rmd)
+* [Notebook (Jupyter on Kaggle executable)](https://www.kaggle.com/danielhain/caldiss-spring-2019-data-munging)
+
+---
+
+# Useful resources
+## Bibliometrics
+
+Freshp aplication paper by Daniel, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you):
+
+Rakas, M and Hain, D.S. (under review). "Innovation System Research: Where It Came From, and What It Is Now – A Bibliometric Network Analysis" [--> Available open access here](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/slides/The_Development_of_Innovation_System_Research_RR1.pdf)
+
+[Vosviewer](http://www.vosviewer.com/)
+Easy software for bibliometrics (by clicking)
+
+[Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
+More complex bibliometrix software including geospacial features and mapping (by clicking).
+
+
+## Demonstration of some cool applications
+
+[AAU Global Patent Explorer](http://gpxp.org/): Our own project on mapping patent quality and knowledge flows across the globe. Just recently won the 1st OECD "Big Data Analytics" challange.
+
 [MIT Startup Cartography Project](https://www.startupmaps.us/home): Initiative by Scott Stern (MIT) using Machine Leaning for real-time forecast of entrepreneurial activity and quality.
+
 
 ## Courses
 
 [Datacamp](https://datacamp.com)
-Online courses. Intro to R, Python, Github, Excel and Sheets are free
+Online courses. Free preperation on working with R
 Recommended courses:
 - R basics: "Introduction to R" (free course)
 - R unsupervised ML: "Unsupervised Learning in R" (chapter 1 free)
-- R Supervised ML: "The Machine Learning Toolbox" (chapter 1 free, introduces to the caret train-control workflow)
 - R Data visualization: "Data Visualization with ggplot2 (Part 1)" (chapter 1 free)
 - [Datacamp Tutorials](https://www.datacamp.com/community/tutorials): Free R & Python Tutorials for specific problems and methods
 
@@ -56,12 +80,3 @@ Collection of free online resources on all kinds of Data Science topics.
 
 ---
 
-# Day 1: Intro, Data Preprocessing
-
-* [Notebook (read-only version)](https://raw.githack.com/daniel-hain/CALDISS_WS_exploratory_analysis/master/notebooks/1_data_munging.html)
-* [Notebook (rmd version for offline work)](https://raw.githubusercontent.com/daniel-hain/CALDISS_WS_exploratory_analysis/master/notebooks/1_data_munging.Rmd)
-* [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/caldiss-spring-2019-data-munging)
-
-
-# Day 2: Unsupervised and Supervised Machine Learning
-Be patient, no spoilers yet... :)
