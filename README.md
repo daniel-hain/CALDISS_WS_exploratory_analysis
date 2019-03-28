@@ -39,11 +39,12 @@ Rakas, M and Hain, D.S. (under review). "The State of Innovation System Research
 ## Courses
 
 [Datacamp](https://datacamp.com)
-Online courses. Free preperation on working with R
+Online courses. Free material for self-learning and further studies.
+
 Recommended courses:
-- R basics: "Introduction to R" (free course)
-- R unsupervised ML: "Unsupervised Learning in R" (chapter 1 free)
-- R Data visualization: "Data Visualization with ggplot2 (Part 1)" (chapter 1 free)
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) (free course)
+- [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r) (chapter 1 free)
+- [Data Visualization with ggplot2 (Part 1)](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) (chapter 1 free)
 - [Datacamp Tutorials](https://www.datacamp.com/community/tutorials): Free R & Python Tutorials for specific problems and methods
 
 
