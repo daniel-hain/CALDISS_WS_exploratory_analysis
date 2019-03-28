@@ -25,24 +25,14 @@ Below you wil find thye course material. You will find a html version for rehear
 ---
 
 # Useful resources
-## Bibliometrics
-
-Freshp aplication paper by Daniel, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you):
-
-Rakas, M and Hain, D.S. (under review). "The State of Innovation System Research: What Happens Beneath The Surface? – A Bibliometric Network Analysis" [--> Available open access here](https://raw.githack.com/daniel-hain/transitions_bibliometrics_2019/master/docs/The_Development_of_Innovation_System_Research_R_R1.pdf)
-
-[Vosviewer](http://www.vosviewer.com/)
-Easy software for bibliometrics (by clicking)
-
-[Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
-More complex bibliometrix software including geospacial features and mapping (by clicking).
-
 
 ## Demonstration of some cool applications
 
 [AAU Global Patent Explorer](http://gpxp.org/): Our own project on mapping patent quality and knowledge flows across the globe. Just recently won the 1st OECD "Big Data Analytics" challange.
 
 [MIT Startup Cartography Project](https://www.startupmaps.us/home): Initiative by Scott Stern (MIT) using Machine Leaning for real-time forecast of entrepreneurial activity and quality.
+
+Paper: Rakas, M and Hain, D.S. (under review). "The State of Innovation System Research: What Happens Beneath The Surface? – A Bibliometric Network Analysis" [--> Available open access here](https://raw.githack.com/daniel-hain/transitions_bibliometrics_2019/master/docs/The_Development_of_Innovation_System_Research_R_R1.pdf) $\rightarrow$ Freshp aplication paper by Daniel, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you)
 
 
 ## Courses
@@ -61,11 +51,21 @@ Collection of free online resources on all kinds of Data Science topics.
 
 ## Software
 
+### R General
+
 [Installing R on your machine](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu/)
 
 [Installing the RStudio IDE on your machine](https://www.rstudio.com/products/rstudio/download/#download)
 
 [Network analysis and visualization software](https://gephi.org/)
+
+### Bibliometrics
+
+[Vosviewer](http://www.vosviewer.com/)
+Easy software for bibliometrics (by clicking)
+
+[Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
+More complex bibliometrix software including geospacial features and mapping (by clicking).
 
 
 ## Help
