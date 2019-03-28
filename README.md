@@ -75,9 +75,9 @@ More complex bibliometrix software including geospacial features and mapping (by
 
 ## Others
 
-[Informative podcast about professional analytics](https://www.datacamp.com/community/podcast)
+[DataFramed](https://www.datacamp.com/community/podcast): Informative podcast hosted by Datacamp about professional analytics
 
-[R-Bloggers](https://www.r-bloggers.com/):R news and tutorials
+[R-Bloggers](https://www.r-bloggers.com/): R news and tutorials
 
 ---
 
