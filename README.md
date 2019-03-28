@@ -32,7 +32,8 @@ Below you wil find thye course material. You will find a html version for rehear
 
 [MIT Startup Cartography Project](https://www.startupmaps.us/home): Initiative by Scott Stern (MIT) using Machine Leaning for real-time forecast of entrepreneurial activity and quality.
 
-Paper: Rakas, M and Hain, D.S. (under review). "The State of Innovation System Research: What Happens Beneath The Surface? – A Bibliometric Network Analysis" [--> Available open access here](https://raw.githack.com/daniel-hain/transitions_bibliometrics_2019/master/docs/The_Development_of_Innovation_System_Research_R_R1.pdf) $\rightarrow$ Freshp aplication paper by Daniel, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you)
+Fresh aplication paper, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you):
+Rakas, M and Hain, D.S. (under review). "The State of Innovation System Research: What Happens Beneath The Surface? – A Bibliometric Network Analysis" [--> Available open access here](https://raw.githack.com/daniel-hain/transitions_bibliometrics_2019/master/docs/The_Development_of_Innovation_System_Research_R_R1.pdf)  
 
 
 ## Courses
